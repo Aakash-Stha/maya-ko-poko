@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    background-color: rgb(43, 163, 19);
+    max-height: 60px;
+}
+.nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    padding: 15px;
+}
+.nav ul li a{
+    color: aliceblue;
+    padding: 20px;
+}
+.logo_img{
+    height: 60px;
+    width: 100px;
+
+}
+
+.main_body{
+    height: 400px;
+}
+.footer{
+    height: 150px;
+    background-color: rgb(43, 163, 19);
+
+}
